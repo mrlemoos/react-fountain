@@ -1,0 +1,11 @@
+@import './react-fountain-root.css';
+
+.react-fountain__transition {
+  font-family: var(--react-fountain-font-family);
+  font-weight: normal;
+  font-size: 12pt;
+
+  text-align: right;
+
+  padding-right: 1.25in;
+}

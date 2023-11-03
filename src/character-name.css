@@ -1,0 +1,10 @@
+@import './react-fountain-root.css';
+
+.react-fountain__character-name {
+  font-family: var(--react-fountain-font-family);
+  font-size: 12pt;
+
+  text-transform: uppercase;
+
+  padding-left: 2.2in;
+}

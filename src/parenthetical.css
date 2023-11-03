@@ -1,0 +1,8 @@
+@import './react-fountain-root.css';
+
+.react-fountain__parenthetical {
+  font-family: var(--react-fountain-font-family);
+  font-size: 12pt;
+
+  padding-left: 1.6in;
+}

@@ -1,0 +1,7 @@
+@import './react-fountain-root.css';
+
+.react-fountain__slugline {
+  font-family: var(--react-fountain-font-family);
+  font-weight: var(--react-fountain-slugline-font-weight);
+  font-size: 12pt;
+}

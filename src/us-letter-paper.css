@@ -1,0 +1,9 @@
+@import './react-fountain-root.css';
+
+.react-fountain__us-letter-paper {
+  width: 8.5in;
+
+  padding-top: 1in;
+  padding-left: 1.5in;
+  padding-right: 1.25in;
+}
